@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/climaApi-react/static/css/main.cfbf176b.chunk.css",
-    "main.js": "/climaApi-react/static/js/main.c6a57763.chunk.js",
-    "main.js.map": "/climaApi-react/static/js/main.c6a57763.chunk.js.map",
+    "main.js": "/climaApi-react/static/js/main.014de899.chunk.js",
+    "main.js.map": "/climaApi-react/static/js/main.014de899.chunk.js.map",
     "runtime-main.js": "/climaApi-react/static/js/runtime-main.9e5fc952.js",
     "runtime-main.js.map": "/climaApi-react/static/js/runtime-main.9e5fc952.js.map",
     "static/js/2.963e2876.chunk.js": "/climaApi-react/static/js/2.963e2876.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9e5fc952.js",
     "static/js/2.963e2876.chunk.js",
     "static/css/main.cfbf176b.chunk.css",
-    "static/js/main.c6a57763.chunk.js"
+    "static/js/main.014de899.chunk.js"
   ]
 }
